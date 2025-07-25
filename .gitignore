@@ -1,0 +1,4 @@
+expense_tracker_backend/venv
+expense_tracker_backend/node_modules
+expense_tracker_backend/.env
+expense_tracker_backend/__pycache__
